@@ -1,16 +1,13 @@
-{
-    "info": {
-        "url_png_icon_64x64": "",
-        "url_png_logo": "",
-        "location": "Bangkok, Thailand",
-        "social": {
-            "twitter_handle": "",
-            "telegram_handle": "baconstake",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": ""
-        },
-    },
-}
+"info": {
+    "url_png_icon_64x64": "",
+    "url_png_logo": "",
+    "location": "Bangkok, Thailand",
+    "social": {
+        "twitter_handle": "",
+        "telegram_handle": "baconstake",
+        "facebook_handle": "",
+        "youtube_handle": "",
+        "twitch_handle": "",
+        "discord_handle": "",
+        "github_handle": ""
+    }
