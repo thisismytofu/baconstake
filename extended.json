@@ -1,12 +1,12 @@
 {
     "info": {
     "url_png_icon_64x64": "https://baconstake.com/img/logo_64x64.png",
-    "url_png_logo": "",
+    "url_png_logo": "https://baconstake.com/img/logo_512x512.png",
     "location": "Bangkok, Thailand",
     "social": {
         "twitter_handle": "",
         "telegram_handle": "baconstake",
-        "facebook_handle": "",
+        "facebook_handle": "baconstake",
         "youtube_handle": "",
         "twitch_handle": "",
         "discord_handle": "",
